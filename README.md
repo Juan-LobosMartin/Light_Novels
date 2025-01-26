@@ -34,9 +34,14 @@ To explore market possibilities, this project utilizes web scraping techniques o
     * Highly active community with numerous recommendations and reviews.
     * Light novels are a relatively new category within the existing manga database.
 
-**Data Collection:**
+**Data Collection Method:**
 
-Data was scraped from Anime-Planet between December 12th and 20th, 2024.
+* Web scraping was performed using a bot designed to mimic human browsing behavior. 
+* This approach aimed to minimize server load and ensure responsible data collection. 
+
+**Data analysis:**
+Work in progress. 
 
 This project aims to leverage the insights gleaned from Anime-Planet's data to understand the potential market for light novels in the English-speaking world.# Light_Novels
 study of the market value of the "Light Novels"
+
